@@ -1,24 +1,42 @@
-# Beth Gross | Data Stuff
+# Beth Gross — Data & Analytics
 
-Experienced analytics professional with 7+ years applying data-driven methods across tech and environmental sectors. 
+Welcome! I am Beth Gross, and you've landed on my **working notes**. This is where I share my thoughts, projects and interesting finds. Consider this a "thoughts in progress" space, so please excuse any typos or half-baked ideas. Some things will be just wrong... so keep that **critical thinking** cap on, yeah?  
 
-Proven success in owning end-to-end data workflows, from pipeline development and modeling to experimentation and dashboarding. Strong quantitative background starting in hydrogeology, then evolving to focus on digital product and growth analytics. 
+I'm mostly focused on data and analytics, but my curious mind strays into other areas like cybersecurity, ai ethics and psychology.
 
-Adept at collaborating cross-functionally to solve business problems, strengthen decision-making and drive growth.
+If you want to chat, reach out on [LinkedIn](https://www.linkedin.com/in/bethgross/). 
 
+---
 
 ## Skills
-* `Data Languages:` SQL (BigQuery, Postgres), R, Python
-* `Analytics Skills:` A/B testing, funnel analysis, user acquisition and retention, forecasting, data modeling, analytics architecture, statistics, hypothesis testing & experimentation
-* `BI / Reporting Tools:` Amplitude, Looker, Mode, Metabase, Superset, Tableau, GrowthBook
-* `ETL/Data Engineering Tools:` dbt, Domo, Google Cloud Console, Dagster, Airflow 
-* `Communication:` Cross-functional, adaptive and results-focused approach
 
-## Index
+### Data Languages
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* SQL (BigQuery, Postgres)  
+* R  
+* Python
 
+### Analytics
 
+* Funnel analysis, retention, forecasting  
+* Data modeling, analytics architecture  
+* A/B testing, hypothesis testing, experimentation
+
+### BI / Reporting
+
+* Amplitude, Looker, Mode, Metabase, Superset, Tableau, GrowthBook
+
+### ETL / Data Engineering
+
+* dbt, Domo, Google Cloud Console  
+* Dagster, Airflow
+
+### Communication
+
+* Cross-functional, adaptive, results-focused
+
+---
+
+## Notes
+
+* [Intelligence without wisdom?](notes/2025-08-09_Test.md)
