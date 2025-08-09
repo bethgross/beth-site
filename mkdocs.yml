@@ -1,7 +1,9 @@
-site_name: Beth — Notes & Analyses
+site_name: Beth Gross — Think with Data
 site_url: ""
 theme:
   name: material
+  palette:
+    scheme: slate   # dark
   features:
     - navigation.instant
     - navigation.tracking
