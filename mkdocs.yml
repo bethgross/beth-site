@@ -3,7 +3,8 @@ site_url: ""
 theme:
   name: material
   palette:
-    scheme: slate   # dark
+    scheme: default  # light
+#    scheme: slate   # dark
   features:
     - navigation.instant
     - navigation.tracking

@@ -1,6 +1,6 @@
 # Beth Gross — Data & Analytics
 
-Welcome! I am Beth Gross, and you've landed on my **working notes**. This is where I share my thoughts, projects and interesting finds. Consider this a "thoughts in progress" space, so please excuse any typos or half-baked ideas. Some things will be just wrong... so keep that **critical thinking** cap on, yeah?  
+Welcome! I am Beth Gross, and you've landed on my **working notes**. This is where I share my thoughts, projects and interesting finds. Consider this a "thoughts in progress" space, so please excuse any typos or half-baked ideas. Some things will be just wrong... so keep that **critical thinking** cap on.  
 
 I'm mostly focused on data and analytics, but my curious mind strays into other areas like cybersecurity, ai ethics and psychology.
 
@@ -39,4 +39,4 @@ If you want to chat, reach out on [LinkedIn](https://www.linkedin.com/in/bethgro
 
 ## Notes
 
-* [Intelligence without wisdom?](notes/2025-08-09_Test.md)
+* [Test Note](notes/2025-08-09_Test.md)
