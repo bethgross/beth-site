@@ -1,0 +1,18 @@
+site_name: Beth — Notes & Analyses
+site_url: ""
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Notes:
+      - Testing Notes: notes/2025-08-09_Test.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - admonition
+  - tables
